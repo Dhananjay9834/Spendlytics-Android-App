@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991168536474",
+    "project_id": "spendlyticsd",
+    "storage_bucket": "spendlyticsd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991168536474:android:460c1d10fb4cf3abcea423",
+        "android_client_info": {
+          "package_name": "com.example.spendlytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiPe87DkrsTs4XBuTqf8Hyp32JGIUMAPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
