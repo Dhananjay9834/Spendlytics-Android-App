@@ -24,5 +24,4 @@ public class Expense {
     public String getDate()     { return date; }
     public String getPhone()    { return phone; }
 
-    public void myfunctn(){}
 }
