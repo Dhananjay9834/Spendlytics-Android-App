@@ -23,4 +23,6 @@ public class Expense {
     public String getNote()     { return note; }
     public String getDate()     { return date; }
     public String getPhone()    { return phone; }
+
+    public void myfunctn(){}
 }
